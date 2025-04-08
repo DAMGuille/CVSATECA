@@ -10,5 +10,5 @@ package refactorizar;
  */
 public class Clase1 {
     String nombre = "Guillermo";
-    String apellido = "Ateca";
+    String apellido = "Ateca"; 
 }
